@@ -1,0 +1,14 @@
+.git
+.gitignore
+*.md
+.vscode
+*.pyc
+__pycache__
+models/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.gguf
+.DS_Store
